@@ -2,6 +2,7 @@
 title: New Post
 date: 2019-02-16T03:16:37.603Z
 description: wlkfwelfkewlkfwelkfwelkflwe vlw vlewl few
+image: /img/about-jumbotron.jpg
 ---
 lwfkeflwefwefwe
 
